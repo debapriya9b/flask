@@ -1,0 +1,72 @@
+Flask Introduction
+
+https://www.youtube.com/watch?time_continue=1&v=id-_y9yVO18
+
+Hello Flask
+
+https://www.youtube.com/watch?v=etRscSyFIrI
+
+Rendering HTML Code
+
+https://www.youtube.com/watch?v=OefaQ4-bwsI
+
+Routing
+
+https://www.youtube.com/watch?v=nCSjn_M3CQ0
+
+Template Inheritance
+
+https://www.youtube.com/watch?v=0-FQUGNRV0A
+
+Using A Bootstrap Theme
+
+https://www.youtube.com/watch?v=aASq20GWwTY
+
+Styling Our Templates
+
+https://www.youtube.com/watch?v=_PN3gQdvkBo
+
+Making The Design Our Own
+
+https://www.youtube.com/watch?v=0Hb0sM8L9OE
+
+Adding In Some Company Data
+
+https://www.youtube.com/watch?v=eNzbt3FXNSA
+
+Passing Data From A View To A Template
+
+https://www.youtube.com/watch?v=ommTRIlWyi0
+
+Using For Loops Inside HTML
+
+https://www.youtube.com/watch?v=P-u2_5suDtw
+
+Reading From A JSON File
+
+https://www.youtube.com/watch?v=fzP0Y-Z6E2M
+
+Iterating Over Our JSON Data
+
+https://www.youtube.com/watch?v=r1fo9iN8cfM
+
+Using If Statements Inside Our HTML
+
+https://www.youtube.com/watch?v=ooIRblr0BVc
+
+Advanced Routing
+
+https://www.youtube.com/watch?v=x8VY_2A8ze4
+
+Creating A Form In A Template
+
+https://www.youtube.com/watch?v=g4umP6K7XfE
+
+POST
+
+https://www.youtube.com/watch?v=ES_5Nwphd2Q
+
+Providing Feedback To The User
+
+https://www.youtube.com/watch?v=Wz9FnMJH_Ec
+
